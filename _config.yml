@@ -5,7 +5,7 @@ title: My blog
 description: Longhao Yuan的个人博客
 keywords: Blog,Machine Learning
 author: Longhao Yuan
-footerText: --------------------------------
+footerText: 
 
 # 这些不要动
 permalink: /posts/:year/:month/:day/:title.html
@@ -25,20 +25,20 @@ baseurl: ''
 
 # 菜单
 menu:
-  - title: Main page
+  - title: Main
     url: /
   # - title: 归类
   #   url: /pages/categories.html
-  - title: Search
-    url: /pages/search.html
+  # - title: Search
+  #   url: /pages/search.html
   # - title: 友链
   #   url: /pages/links.html
   # - title: 留言
   #   url: /pages/chat.html
   - title: About
     url: /pages/about.html
-  - title: Research
-    url: /pages/research.html
+  # - title: Research
+  #   url: /pages/research.html
 
 # 点击页面文字冒出特效,不需要请设置为false
 extClickEffect: true
