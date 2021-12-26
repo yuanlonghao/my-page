@@ -1,6 +1,6 @@
 ---
 layout: mypost
-title: 
+title: About
 ---
 
 ### Links
