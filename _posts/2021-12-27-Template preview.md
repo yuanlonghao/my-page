@@ -1,6 +1,6 @@
 ---
 layout: mypost
-title: will this appear?
+title: Template preview
 categories: [Jekyll]
 ---
 
