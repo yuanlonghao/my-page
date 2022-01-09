@@ -1,3 +1,7 @@
+# TODOs
+- 英文标题太长会有省略号，改成换行
+- 博客里面英文换行时断开。。。
+
 
 ## Source
 https://github.com/TMaize/tmaize-blog
